@@ -18,7 +18,7 @@
  
   ### ResNet-50 CNN and SVM Classification Model
   
-  ![alt text](https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG =100x20)
+  ![alt text](https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG) { width: 200px; }
  
  ## Model - DenseNet121
  
