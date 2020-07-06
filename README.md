@@ -18,7 +18,7 @@
  
   ### Architecture: ###
   
-    <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG" width="500" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG" width="500" height="500" />
   
   ### Graph: Training and Validation dataset performance
   
@@ -32,13 +32,13 @@
   
  ## Model - DenseNet121
  
- ### Extended DenseNet121 Classification Model
+  ### Architecture: ###
  
  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/DenseNet-121.JPG" width="500" height="500" />
  
   ### Graph: Training and Validation dataset performance
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet_Accuracy.JPG" width="1000"   height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet_Accuracy.JPG" width="800"   height="500" />
   
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_loss.JPG" width="1000" height="500" />
   
@@ -51,7 +51,7 @@
  
  ## Model - Convolutional Neural Networks(CNN)
 
-  ### CNN Classification Model
+   ### Architecture: ###
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/CNN.JPG" width="500" height="500" />
   
   ### Graph: Training and Validation dataset performance
