@@ -12,8 +12,20 @@
 
   ### Model - Convolutional Neural Networks(CNN)
     CNN's layers use to implement Recyclable Waste Classification
+ 
+ 
+ ## Model - Olugboja Adedeji Paper Implemation
+ 
+  ### ResNet-50 CNN and SVM Classification Model
   
-  
+  ![alt text](https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG)
+ 
+ ## Model - DenseNet121
+ 
+ ## Model - Convolutional Neural Networks(CNN)
+
+
+
 ## Website to determine image into one recyclable waste categories
   ### Website Link - 
 
