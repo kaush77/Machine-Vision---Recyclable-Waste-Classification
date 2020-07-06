@@ -22,9 +22,9 @@
   
   ### Graph: Training and Validation dataset performance
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Accuarcy.JPG" width="500"   height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Accuarcy.JPG" width="1000"   height="500" />
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Loss.JPG" width="500" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Loss.JPG" width="1000" height="500" />
   
   ### Model Result
   
