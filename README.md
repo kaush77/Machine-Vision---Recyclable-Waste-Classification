@@ -22,9 +22,9 @@
   
   ### Graph: Training and Validation dataset performance
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Accuarcy.JPG" width="1000"   height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Accuarcy.JPG" width="800" />
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Loss.JPG" width="1000" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/ResNet50_SVM_Loss.JPG" width="800" />
   
   ### Model Result
   
@@ -38,9 +38,9 @@
  
   ### Graph: Training and Validation dataset performance
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet_Accuracy.JPG" width="800"   height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet_Accuracy.JPG" width="800" />
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_loss.JPG" width="1000" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_loss.JPG" width="800" />
   
   ### Confusion Matrix
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_ConfusionMatrix.JPG" width="1000" height="500" />
@@ -56,12 +56,12 @@
   
   ### Graph: Training and Validation dataset performance
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Accuracy_plot.JPG" width="1000"   height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Accuracy_plot.JPG" width="800" />
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Loss_Plot.JPG" width="1000" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Loss_Plot.JPG" width="800" />
   
    ### Confusion Matrix
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_ConfusionMatrix.JPG" width="1000" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_ConfusionMatrix.JPG" width="800" />
   
   ### Model Result
   
