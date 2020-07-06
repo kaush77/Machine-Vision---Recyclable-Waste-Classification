@@ -16,7 +16,7 @@
  
  ## Model - Olugboja Adedeji Paper Implemation
  
-  ### Extended ResNet-50 CNN and SVM Classification Model
+  ### Architecture: ###
   
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG" width="500" height="500" />
   
