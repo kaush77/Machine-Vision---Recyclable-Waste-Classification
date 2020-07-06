@@ -36,10 +36,30 @@
  
  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/DenseNet-121.JPG" width="500" height="500" />
  
+ ### Graph: Training and Validation dataset performance
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet_Accuracy.JPG" width="1000"   height="500" />
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_loss.JPG" width="1000" height="500" />
+  
+  ### Model Result
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_Result_1.JPG" width="1000" height="500" />
+ 
  ## Model - Convolutional Neural Networks(CNN)
 
   ### CNN Classification Model
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/CNN.JPG" width="500" height="500" />
+  
+  ### Graph: Training and Validation dataset performance
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Accuracy_plot.JPG" width="1000"   height="500" />
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN_Loss_Plot.JPG" width="1000" height="500" />
+  
+  ### Model Result
+  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN Predict_new images result_1.JPG" width="1000" height="500" />
 
 ## Website to determine image into one recyclable waste categories
   ### Website Link - 
