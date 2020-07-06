@@ -20,6 +20,8 @@
   
   ![alt text](https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG) { width: 200px; }
  
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/ResNet-50.JPG" width="200" height="200" />
+  
  ## Model - DenseNet121
  
  ## Model - Convolutional Neural Networks(CNN)
