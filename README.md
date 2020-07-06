@@ -43,7 +43,7 @@
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_loss.JPG" width="800" />
   
   ### Confusion Matrix
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_ConfusionMatrix.JPG" width="1000" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/DenseNet121/DenseNet121_ConfusionMatrix.JPG" width="800" />
   
   ### Model Result
   
