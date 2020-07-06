@@ -28,7 +28,7 @@
   
   ### Model Result
   
-  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/RawImage.JPG" width="500" height="500" />
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/ResNet50_SVM/RawImage.JPG" width="1000" height="500" />
   
  ## Model - DenseNet121
  
