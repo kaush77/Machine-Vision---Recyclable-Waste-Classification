@@ -22,9 +22,11 @@
   
  ## Model - DenseNet121
  
+ <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/DenseNet-121.JPG" width="500" height="500" />
+ 
  ## Model - Convolutional Neural Networks(CNN)
 
-
+  <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/model/CNN.JPG" width="500" height="500" />
 
 ## Website to determine image into one recyclable waste categories
   ### Website Link - 
