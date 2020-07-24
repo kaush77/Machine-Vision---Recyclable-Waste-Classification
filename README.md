@@ -66,7 +66,3 @@
   ### Model Result
   
   <img src="https://github.com/kaush77/Machine-Vision---Recyclable-Waste-Classification/blob/master/model_results/CNN/CNN Predict_new images result_1.png" width="1000" height="500" />
-
-## Website to determine image into one recyclable waste categories
-  ### Website Link - 
-
